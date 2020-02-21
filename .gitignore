@@ -2,3 +2,5 @@ node_modules
 .linaria-cache
 size-plugin.json
 .cache
+.env
+public
